@@ -1,5 +1,6 @@
 # 一个能说话的点名器
 
+下载最新    [ **点名器** ](https://gitee.com/haoda44/a-talking-roll-call/releases/V3.0)
 #### 介绍
 这是我自学python做的一个能实现朗读的点名器，界面我不是很在行所以就有点丑吧。欢迎大家来给这个小东西添砖加瓦
 
