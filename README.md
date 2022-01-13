@@ -1,19 +1,17 @@
 # 一个能说话的点名器
 
-#### 下载地址
-[2022_1_12可执行程序](http://https://gitee.com/haoda44/a-talking-roll-call/blob/master/main_app_2022.1.12/%E7%82%B9%E5%90%8D%E5%99%A8_by_%E8%AE%A1181%E9%AB%99%E8%BC%9D.exe)
-[字体](http://https://gitee.com/haoda44/a-talking-roll-call/blob/master/main_new/%E5%AD%97%E4%BD%93.7z)
-
 #### 介绍
-这是我自学python做的一个能基本实现说话的点名器，界面我不是很在行所以就有点丑吧。欢迎大家来给这个小东西添砖加瓦，代码写的很烂，大家不要见怪哈
+这是我自学python做的一个能实现朗读的点名器，界面我不是很在行所以就有点丑吧。欢迎大家来给这个小东西添砖加瓦
 
 #### 软件架构
+1.  tkinter
+2.  pyttsx3库
 python的版本我用的是3.8.8 win7能用但是不能说话，具体原因我也不清楚
 
 #### 安装教程
+将名单文件以一行一名的形式，保存为utf-8 后缀为txt的文件，将文件放到name文件夹下即可使用
+程序可以将name文件夹下的所有txt文件加载到程序中。不需要单独导入
 
-1.  tkinter
-2.  pyttsx3库
 
 #### 2022_1_12更新
 1. 重写了代码结构和功能逻辑
