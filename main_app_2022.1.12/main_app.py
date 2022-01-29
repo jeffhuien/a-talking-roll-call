@@ -467,4 +467,4 @@ if __name__ == "__main__":
     App().main()
 
 #打包
-# pyinstaller -F  -w -i ic.ico -p C:\Users\gaohui\AppData\Local\Programs\Python\Python38\Lib\site-packages test.py
+# pyinstaller -F  -w -i ic.ico -p python安装路径/site-packages 当前文件.py
